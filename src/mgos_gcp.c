@@ -1,10 +1,3 @@
-/*
- * Copyright (c) 2014-2017 Cesanta Software Limited
- * All rights reserved
- */
-
-#include "mgos_gcp.h"
-
 #include "common/cs_base64.h"
 #include "common/cs_dbg.h"
 #include "common/json_utils.h"
